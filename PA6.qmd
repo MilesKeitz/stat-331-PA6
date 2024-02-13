@@ -1,6 +1,7 @@
 ---
 title: "Practice Activity 6"
 format: html
+author: "Jack, Jared, Miles, Robert"
 editor: visual
 self-contained: true
 ---
